@@ -1,0 +1,17 @@
+button {
+    border: none;
+    background: url("../pic/button.jpg") no-repeat scroll 0 0 transparent;
+    /* background-color: rgb(70 93 143 / 99%); */
+    border-top: 2px solid rgb(236, 240, 240);
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 38px;
+    outline: none;
+  }
+  
+  button:hover {
+    background: url("../pic/hover.jpg") no-repeat scroll 0 0 transparent;
+  }
+  
